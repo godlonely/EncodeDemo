@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="MD5摘要" android:id="@+id/md5_menu"/>
+    <item android:title="Base64编码" android:id="@+id/base64_menu"/>
+    <item android:title="Des加密" android:id="@+id/des_menu"/>
+</menu>
